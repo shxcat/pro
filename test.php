@@ -1,4 +1,5 @@
 <?php 
 	echo '²âÊÔÎÄ¼þ';
+var_dumo('hello word');
 
 ?>
